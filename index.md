@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+drdivresearch: Welcome to my blog!
 ---
